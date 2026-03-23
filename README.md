@@ -1,4 +1,4 @@
-# Olá, sou Iago Castro 👋
+# Olá, sou Iago Castro
 
 Formado em **Análise e Desenvolvimento de Sistemas** pelo SENAI Fortaleza. Trabalho como **Suporte Técnico** em uma empresa de ERP, onde cuido do banco de dados Firebird (2.5 e 3.0), configuro o Windows para receber o sistema, instalo o sistema tanto em servidores quanto em terminais, e treino usuários.
 
@@ -10,7 +10,7 @@ Estou desenvolvendo um site de jornal com **Django e Supabase** como projeto pro
 
 ---
 
-## 🛠️ Tecnologias
+## Tecnologias
 
 **Backend**
 
@@ -37,17 +37,17 @@ Estou desenvolvendo um site de jornal com **Django e Supabase** como projeto pro
 
 ---
 
-## 🚀 Projetos em destaque
+## Projetos em destaque
 
-### 🔧 NFCe Configurator
+### NFCe Configurator
 Ferramenta interna para configuração de NFCe, desenvolvida para uso no trabalho.  
 `PowerShell`
 
-### 📋 QCCheck
+### QCCheck
 Aplicativo mobile de inspeção de qualidade — projeto final do SENAI.  
 `React Native` `Expo` `JavaScript`
 
-### 🎮 RLExplore
+### RLExplore
 Catálogo de itens do Rocket League (meu jogo preferido) com busca e filtros.  
 `React Native` `Expo` `JavaScript`
 
@@ -62,7 +62,7 @@ Catálogo de itens do Rocket League (meu jogo preferido) com busca e filtros.
 
 ---
 
-## 🎯 Interesses
+## Interesses
 
 - Desenvolvimento backend
 - Banco de dados e infraestrutura
